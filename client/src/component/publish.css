@@ -1,0 +1,20 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+    width: 20%;
+    height:520px;
+    margin-top: 20px;
+}
+
+.ul{
+    padding:30px;
+}
+
+.body {
+    border: 1px solid black;
+    width: 100%;
+}
+.form{
+    position: absolute;
+}
